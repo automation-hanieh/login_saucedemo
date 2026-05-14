@@ -46,7 +46,7 @@ git clone https://github.com/MousavianHanieh/login_saucedemo.git
 
 3. Run `LoginTest.java` with TestNG
 
-## 👩‍💻 Author
+## Author
 
 **Hanieh Mousavian** — QA Engineer  
 [LinkedIn](https://www.linkedin.com/in/hanieh-rabani) | [GitHub](https://github.com/MousavianHanieh)
