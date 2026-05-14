@@ -1,8 +1,8 @@
-# 🛒 SauceDemo Login & Checkout Automation
+# SauceDemo Login & Checkout Automation
 
 Automated end-to-end tests for [saucedemo.com](https://www.saucedemo.com) using Java, Selenium WebDriver, and TestNG.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Version |
 |---|---|
@@ -12,7 +12,7 @@ Automated end-to-end tests for [saucedemo.com](https://www.saucedemo.com) using 
 | Maven | Latest |
 | IDE | IntelliJ IDEA |
 
-## 📁 Project Structure
+## Project Structure
 
 src/test/java/
 ├── pages/
@@ -22,7 +22,7 @@ src/test/java/
 │   └── CheckoutPage.java
 └── LoginTest.java
 
-## ✅ Test Cases
+## Test Cases
 
 | Test | Description |
 |---|---|
@@ -31,11 +31,11 @@ src/test/java/
 | `testAddToCart` | Add item to cart and verify count |
 | `testCheckoutFlow` | Complete end-to-end checkout |
 
-## 🏗️ Design Pattern
+## Design Pattern
 
 This project uses **Page Object Model (POM)** — each page has its own class containing elements and actions, keeping tests clean and maintainable.
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repo:
 ```bash
